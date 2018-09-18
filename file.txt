@@ -1,3 +1,4 @@
 Hallo Git
 again
 beitrag auf master
+konflikt von master
